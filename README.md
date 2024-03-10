@@ -1,7 +1,6 @@
 # Invoice data processing with Mistral LLM on local CPU
 
 
-**Youtube**: <a href="https://www.youtube.com/watch?v=9RERupqcFL4" target="_blank">Invoice Data Processing with Mistral LLM on Local CPU</a>
 
 ___
 
