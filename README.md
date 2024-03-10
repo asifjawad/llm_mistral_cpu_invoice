@@ -1,10 +1,7 @@
 # Invoice data processing with Mistral LLM on local CPU
 
 
-<<<<<<< HEAD
-Invoice Data Processing with Mistral LLM on Local CPU
-=======
->>>>>>> d3a3ea3f0c8adb8fe68c8efcf4913c0737baab5e
+This repository focuses on invoice data processing using Mistral LLM (Local Language Model) on a local CPU. It aims to streamline the extraction, analysis, and management of invoice information, enhancing efficiency and accuracy
 
 ___
 
